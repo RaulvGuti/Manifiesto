@@ -14,7 +14,8 @@
 
 # ¿Donde encuentro mas informacion de la serie?
     En general la serie se encuntra todo en netflix siendo una serie muy buena pero aqui puede enocntrar mas
-    informacion aqui: https://es.wikipedia.org/wiki/Manifest_(serie_de_televisi%C3%B3n)
+    informacion aqui:
+href(https://es.wikipedia.org/wiki/Manifest_(serie_de_televisi%C3%B3n))
 
 # Su reparto es:
 * Melissa Roxburgh como Michaela Stone
